@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d45d7ff6-7e54-47b3-83cd-c0a6df098b97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bogatkok/SimpleJUnitExamplesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bogatkok/WebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bogatkok/data/Locale.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FS2xqUAD5yTlZhwlnGXeh1CYQK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.WebTest.wikiLocaleTest">
+    <configuration name="WebTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_quru_junit15.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bogatkok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bogatkok" />
+      <option name="MAIN_CLASS_NAME" value="com.bogatkok.WebTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.wikiLocaleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_quru_junit15.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bogatkok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bogatkok" />
+      <option name="MAIN_CLASS_NAME" value="com.bogatkok.WebTest" />
+      <option name="METHOD_NAME" value="wikiLocaleTest(com.bogatkok.data.Locale)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.wikiMenuByLocaleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_quru_junit15.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bogatkok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bogatkok" />
+      <option name="MAIN_CLASS_NAME" value="com.bogatkok.WebTest" />
+      <option name="METHOD_NAME" value="wikiMenuByLocaleTest(com.bogatkok.data.Locale,java.util.List)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.wikiSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_quru_junit15.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bogatkok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bogatkok" />
+      <option name="MAIN_CLASS_NAME" value="com.bogatkok.WebTest" />
+      <option name="METHOD_NAME" value="wikiSearchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.wikiSearchTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa_quru_junit15.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bogatkok.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bogatkok" />
+      <option name="MAIN_CLASS_NAME" value="com.bogatkok.WebTest" />
+      <option name="METHOD_NAME" value="wikiSearchTextTest(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebTest.wikiLocaleTest" />
+        <item itemvalue="JUnit.WebTest.wikiMenuByLocaleTest" />
+        <item itemvalue="JUnit.WebTest.wikiSearchTextTest" />
+        <item itemvalue="JUnit.WebTest" />
+        <item itemvalue="JUnit.WebTest.wikiSearchTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d45d7ff6-7e54-47b3-83cd-c0a6df098b97" name="Changes" comment="" />
+      <created>1664471414249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664471414249</updated>
+    </task>
+    <servers />
+  </component>
+</project>
